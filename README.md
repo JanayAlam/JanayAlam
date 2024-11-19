@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **React, Express, MongoDB, Flask, etc.**
 
-- 📝 I write articles on [https://janay.hashnode.dev](https://janay.hashnode.dev)
-
 - 📫 You can contact me at **janayalam.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
