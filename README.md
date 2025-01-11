@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Janay Alam</h1>
-<p align="center">I started my programming career with the C. After that, I learned object-oriented programming with Java. I learned about data structures and algorithms. Then, initially, I started web development with Java Spring Boot then with JavaScript and Python. I learned React in frontend, Node and Express in backend, PostgreSQL relational databases, and MongoDB document-based databases. In that time I gained knowledge about functional programming properly. I am continuously solving programming problems in Leetcode and LightOJ.</p>
 
 <hr />
 
-- 🧠 I'm currently practicing **web development with clean code, testing, documenting, etc.**
-
-- 🌱 I’m currently learning **docker and AWS.**
-
 - 💬 Ask me about **React, Express, MongoDB, Flask, etc.**
 
-- 📫 You can contact me at **janayalam.work@gmail.com**
+- 📫 You can contact me at **janayalam820@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
