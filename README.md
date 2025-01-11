@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janay Alam</h1>
-
-<hr />
+# Hi 👋, I'm Janay Alam
 
 - 💬 Ask me about **React, Next, Express, MongoDB, PostgreSQL, MySQL, etc.**
 
