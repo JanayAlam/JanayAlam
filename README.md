@@ -2,7 +2,7 @@
 
 <hr />
 
-- 💬 Ask me about **React, Express, MongoDB, Flask, etc.**
+- 💬 Ask me about **React, Next, Express, MongoDB, PostgreSQL, MySQL, etc.**
 
 - 📫 You can contact me at **janayalam820@gmail.com**
 
