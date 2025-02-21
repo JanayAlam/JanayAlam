@@ -1,7 +1,5 @@
 # Hi 👋, I'm Janay Alam
 
-- 💬 Ask me about **React, Next, Express, MongoDB, PostgreSQL, MySQL, etc.**
-
 - 📫 You can contact me at **janayalam820@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
